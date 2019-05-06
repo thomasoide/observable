@@ -1,5 +1,5 @@
 # Observable Notebooks
-Ever since I learned about Observable at NICAR 2019, I've been trying to find ways to use the platform. I think Observable has so much potential and I'm very much looking forward to integrating it into my workflows. 
+Ever since I learned about Observable at NICAR 2019, I've been trying to find ways to use the platform. I think it has so much potential and I'm very much looking forward to integrating it into my workflows. See some of the notebooks I've worked on below:
 ## Missouri Small Water Systems Map
 [Link to the notebook](https://observablehq.com/@thomasoide/missouris-chlorinated-small-water-systems)
 
