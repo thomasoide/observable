@@ -1,5 +1,14 @@
 # Observable Notebooks
 Ever since I learned about Observable at NICAR 2019, I've been trying to find ways to use the platform. I think it has so much potential and I'm very much looking forward to integrating it into my workflows. See some of the notebooks I've worked on below:
+## Twins Home Runs
+[Link to the notebook](https://observablehq.com/@thomasoide/twins-hrs)
+
+This notebook is the embodiment of everything good about Observable. As the Minnesota Twins approached the MLB home run record, I was tasked with creating a graphic that told the story of the season. To do that, I found the statistics to plot, game-by-game, all the home runs the Twins hit compared to the top 15 home-running hitting teams in baseball history. The last thing I wanted to do was create 18 separate charts in Illustrator, so I did it in D3/Observable instead. 
+
+[Link to the project](http://www.startribune.com/smashing-homers-shattering-a-record/537432771/)
+
+I built out a simple Scrollymagic framework that pinned each slide to the top of the page for 500 pixels and sussed out the order of my graphics. That way, when the Twins actually broke the record, it was a matter of downloading an SVG from Observable, quickly annotating the graphics in AI and dropping them in an S3 bucket for the page to pull from. 
+
 ## Missouri Small Water Systems Map
 [Link to the notebook](https://observablehq.com/@thomasoide/missouris-chlorinated-small-water-systems)
 
